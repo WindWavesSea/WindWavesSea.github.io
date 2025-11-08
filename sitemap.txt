@@ -1,4 +1,0 @@
-http://blog.windwaves.dpdns.org/about/index.html
-http://blog.windwaves.dpdns.org/links/index.html
-http://blog.windwaves.dpdns.org/post/hello-world.html
-http://blog.windwaves.dpdns.org/
